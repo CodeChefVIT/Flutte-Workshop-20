@@ -4,21 +4,19 @@
 # Flutter Bootcamp
 
 > <Subtitle>
-> graVITas 2020 Official Website for Flutter Bootcamp workshop
+> Official website for our Flutter graVITas event for the year 2020.
 ---
-[![DOCS](https://img.shields.io/badge/Documentation-see%20docs-green?style=flat-square&logo=appveyor)](INSERT_LINK_FOR_DOCS_HERE) 
-  [![UI ](https://img.shields.io/badge/User%20Interface-Link%20to%20UI-orange?style=flat-square&logo=appveyor)](INSERT_UI_LINK_HERE)
-
-
-
+[![UI ](https://img.shields.io/badge/User%20Interface-Link%20to%20UI-orange?style=flat-square&logo=appveyor)](https://flutter.codechefvit.com)
 
 ## Features
--Contains all the necessary details regarding the event.
--html:layout
--CSS:Designing of the website
--Bootstrap:Making it responsive(image grid,footer)
--Javascript: Dyanamic features of the website(countdown)
--jquery
+- Contains all the necessary details regarding the event.
+
+## Tech Stack
+- HTML: Website Layout
+- CSS: Website Styling
+- Bootstrap: Responsivity
+- Javascript: Dynamic Features like the countdown
+- jQuery
 
 ## Screenshots
 <img src="https://i.ibb.co/zX4FZkK/IMG-20200905-WA0036-01-01.jpg" alt="Project Screenshots">
