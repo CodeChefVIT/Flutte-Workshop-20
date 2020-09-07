@@ -24,15 +24,6 @@
 <img src="https://i.ibb.co/zX4FZkK/IMG-20200905-WA0036-01-01.jpg" alt="Project Screenshots">
 <img src="https://i.ibb.co/bdgs3W3/IMG-20200901-WA0081-01.jpg" alt="Project Screenshots">
 
-## Instructions to run
-
-```
-$ git clone https://github.com/CodeChefVIT/Flutter-Workshop-20
-$ cd Flutter-Workshop-20
-$ pip3 install -r requirements.txt
-$ python3 manage.py runserver
-```
-
 ## Contributors
 - <a href="https://github.com/musk101">Muskan Agarwal</a>
 
